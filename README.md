@@ -319,6 +319,12 @@ HippoMedica/
 
 ---
 
+## Team
+
+Developed as part of a machine learning group project focused on healthcare AI applications.
+
+---
+
 ## Acknowledgments
 
 - UCI Machine Learning Repository for datasets
