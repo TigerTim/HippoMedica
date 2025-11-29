@@ -1,4 +1,4 @@
-# 🏥 HippoMedica - Multi-Modal Early Disease Detection System
+# 🏥 Multi-Modal Early Disease Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/ML-Ensemble-green.svg)](https://scikit-learn.org/)
